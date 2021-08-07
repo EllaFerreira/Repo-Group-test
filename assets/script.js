@@ -120,7 +120,7 @@ $(document).ready(function () {
     });
   }
 
-  // getFiveDayForecast("https://api.openweathermap.org/data/2.5/forecast?q=" + "miami" + "&units=imperial" + "&APPID=" + APIKEY)
+  // getFiveDayForecast("https://api.openweathermap.org/data/2.5/forecast?q=" + "city" + "&units=imperial" + "&APPID=" + APIKEY)
   function getFiveDayForecast(cityName) {
     $.ajax({
       url:
