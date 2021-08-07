@@ -3,7 +3,7 @@
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
 This web application was created using HTML, CSS, JavaScript, and jQuery. The Bulma CSS framework was used for styling the application. The OpenWeather API was used to retrieve weather information for this application. Moment.js was used to parse time and date information.
 
-#Criteria
+# Criteria
 
 - GIVEN a weather dashboard with form inputs
 - WHEN I search for a city
@@ -17,7 +17,7 @@ This web application was created using HTML, CSS, JavaScript, and jQuery. The Bu
 - WHEN I click on a city in the search history
 - THEN I am again presented with current and future conditions for that city.
 
-#Mock-up
+# Mock-up
 
 
 
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/84433857/128590420-8a280675-ace8-4313-
 
 
 
-#Technologies use
+# Technologies 
 
 *OpenWeather API - https://openweathermap.org/
 
