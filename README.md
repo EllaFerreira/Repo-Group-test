@@ -31,14 +31,9 @@ https://user-images.githubusercontent.com/84433857/128590420-8a280675-ace8-4313-
 
 # Technologies/Library
 
-
-*OpenWeather API - https://openweathermap.org/
-
-*Bulma - https://bulma.io/documentation/
-
-*JavaScript/JQuery - https://www.hashbangcode.com/article/prevent-enter-key-submitting-forms-jquery
-
-*Moment.js - https://momentjs.com/
-
+- [Bulma](https://bulma.io/) - CSS Framework
+- [Jquery](https://jquery.com/) - JavaScript Library 
+- [Moment.js](https://momentjs.com/) - JavaScript Library 
+- [OpenWeather API](https://openweathermap.org/)
 
 # Link: https://ellaferreira.github.io/Weather-Dashboard-Bootcamp/
