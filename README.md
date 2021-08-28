@@ -1,9 +1,9 @@
-# Weather-Dashboard-Bootcamp
+# Weather-Dashboard-Bootcamp 🌐
 
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
 This web application was created using HTML, CSS, JavaScript, and jQuery. The Bulma CSS framework was used for styling the application. The OpenWeather API was used to retrieve weather information for this application. Moment.js was used to parse time and date information.
 
-# Criteria
+# Acceptance Criteria
 
 - GIVEN a weather dashboard with form inputs
 - WHEN I search for a city
@@ -29,7 +29,8 @@ https://user-images.githubusercontent.com/84433857/128590420-8a280675-ace8-4313-
 
 
 
-# Technologies 
+# Technologies/Library
+
 
 *OpenWeather API - https://openweathermap.org/
 
@@ -38,5 +39,6 @@ https://user-images.githubusercontent.com/84433857/128590420-8a280675-ace8-4313-
 *JavaScript/JQuery - https://www.hashbangcode.com/article/prevent-enter-key-submitting-forms-jquery
 
 *Moment.js - https://momentjs.com/
+
 
 # Link: https://ellaferreira.github.io/Weather-Dashboard-Bootcamp/
